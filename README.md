@@ -10,7 +10,7 @@ Always curious about **Open Source, DevOps, and cutting-edge technologies**.
 ### 🔭 What I'm currently working on  
 - 🌱 Learning **DSA & Web Development**  
 - 💡 Exploring **Open Source** and **DevOps**  
-- 🎯 2025 Goals: *Master DSA, build impactful projects, and contribute to open source*  
+- 🎯 2026 Goals: *Master DSA, build impactful projects, and contribute to open source*  
 
 ---
 
