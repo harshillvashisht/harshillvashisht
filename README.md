@@ -32,12 +32,15 @@ Always curious about **Open Source, DevOps, and cutting-edge technologies**.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshillvashisht&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harshillvashisht&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshillvashisht&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/harshillvashisht">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=harshillvashisht&show_icons=true&theme=dracula&count_private=true" />
+</a>
+<a href="https://github.com/harshillvashisht">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshillvashisht&layout=compact&show_icons=true&theme=dracula&langs_count=8" />
+</a>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harshillvashisht&icon=0&color=3)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
